@@ -1,15 +1,14 @@
 ### Hi there 👋
 
 <a href="https://discordapp.com/users/838127915518263356">
-  <img align="left" alt="Gogo Ibimina Felix Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Gogo Ibimina Felix Discord" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-2McQ6TDHsuKFyqygMsTb3yPUfri29Sv4wQ&s" />
 </a>
 <a href="https://twitter.com/loonetgf">
-  <img align="left" alt="Gogo Ibimina Felix | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Gogo Ibimina Felix | Twitter" width="22px" src="https://www.svgrepo.com/show/11841/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ibimina-gogo-b43a6318a">
-  <img align="left" alt="Gogo Ibimina Felix LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Gogo Ibimina Felix LinkedIN" width="22px" src="https://www.svgrepo.com/download/108614/linkedin.svg" />
 </a>
-
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+frontend+website+developer+from+Nigeria" alt="Welcome to my GitHub Profile. I am a passionate frontend website developer from Nigeria." />
