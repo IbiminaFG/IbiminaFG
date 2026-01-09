@@ -19,14 +19,12 @@
     Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.
 </p>
 
-<br/>
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
 - 💻 Frontend: React, TypeScript, Tailwind CSS 
 - 🌍 Based in Nigeria 
 - 🚀 Open to collaborations and open-source
-- 
+  
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
